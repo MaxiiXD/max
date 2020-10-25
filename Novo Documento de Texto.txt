@@ -1,0 +1,15 @@
+Comando Bots:
+
+sudo apt install git
+
+sudo apt update 
+
+git clone https://github.com/d1kaas/4gario
+
+cd 4gario
+
+sudo chmod +x install.sh
+
+./install.sh
+
+node server
